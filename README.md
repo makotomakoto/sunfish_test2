@@ -1,4 +1,6 @@
 # sunfish_test2
 sunfish_test2
 
-テスト用の
+テスト用のread_me
+
+text変更！！！！
